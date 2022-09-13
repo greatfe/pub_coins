@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nomad-react-master/static/js/main.def217f7.js",
+    "index.html": "/nomad-react-master/index.html",
+    "main.def217f7.js.map": "/nomad-react-master/static/js/main.def217f7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.def217f7.js"
+  ]
+}
